@@ -1,0 +1,26 @@
+# Arquivos de compilação Go
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos de build
+/build/
+
+# Arquivos de log
+*.log
+
+# Diretórios de dependências
+/vendor/
+/go.sum
+/go.mod
+
+# Arquivos específicos do seu ambiente local
+.env
+
+# Arquivos de configuração IDE
+.vscode/
+
+# Arquivos gerados automaticamente
+.DS_Store
+Thumbs.db
